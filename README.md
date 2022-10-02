@@ -60,10 +60,14 @@
 
 ###
 
-<h4 align="left">꧁ BYE, meus povos 😘 ꧂</h4>
+<h4 align="center">꧁ BYE, meus povos 😘 ꧂</h4>
 
 ###
 
 <img align="left" height="200" src="https://media3.giphy.com/media/jUwpNzg9IcyrK/giphy.gif?cid=ecf05e47eg8o46ol7qv1gc1o08iscy3dbfe9zcocpq2kxbsn&rid=giphy.gif&ct=g"  />
+
+###
+
+<img align="right" height="200" src="https://media3.giphy.com/media/Gzvo3F4TBUm1W/giphy.gif?cid=ecf05e47t3qs0c2381rncxa6b8qfsl76sibiyb61r8qyuev8&rid=giphy.gif&ct=g"  />
 
 ###
