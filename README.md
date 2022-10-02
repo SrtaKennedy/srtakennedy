@@ -26,6 +26,21 @@
 
 ###
 
+<h3 align="center">꧁ PROGRESSO: ꧂</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=SrtaKennedy" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=SrtaKennedy" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="center">Sociais:</h3>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ruth-ellen-9b0572221/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FFDDDD&logoColor=BLACK&labelColor=FFAAAA&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -33,17 +48,6 @@
   <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=6DD5AE&logoColor=white&labelColor=a8e6cf&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<h3 align="center">꧁ PROGRESSO: ꧂</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=SrtaKennedy" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=SrtaKennedy" height="134" alt="languages graph"  />
 </div>
 
 ###
@@ -64,10 +68,10 @@
 
 ###
 
-<img align="left" height="200" src="https://media3.giphy.com/media/jUwpNzg9IcyrK/giphy.gif?cid=ecf05e47eg8o46ol7qv1gc1o08iscy3dbfe9zcocpq2kxbsn&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://media3.giphy.com/media/Gzvo3F4TBUm1W/giphy.gif?cid=ecf05e47t3qs0c2381rncxa6b8qfsl76sibiyb61r8qyuev8&rid=giphy.gif&ct=g"  />
 
 ###
 
-<img align="right" height="200" src="https://media3.giphy.com/media/Gzvo3F4TBUm1W/giphy.gif?cid=ecf05e47t3qs0c2381rncxa6b8qfsl76sibiyb61r8qyuev8&rid=giphy.gif&ct=g"  />
+<img align="left" height="200" src="https://media3.giphy.com/media/jUwpNzg9IcyrK/giphy.gif?cid=ecf05e47eg8o46ol7qv1gc1o08iscy3dbfe9zcocpq2kxbsn&rid=giphy.gif&ct=g"  />
 
 ###
