@@ -29,17 +29,11 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://github.com/{{SrtaKennedy}}/{{SrtaKennedy}}/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<h6 align="center">Sociais:</h6>
 
 ###
 
-<h6 align="left">Sociais:</h6>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=cc1111&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo"  />
   </a>
