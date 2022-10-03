@@ -20,6 +20,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=SrtaKennedy" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=SrtaKennedy" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h5 align="left">Sociais:</h5>
 
 ###
@@ -36,12 +43,5 @@
 ###
 
 <p align="center">ᴀᴏ ʀᴇɪ ᴇᴛᴇʀɴᴏ, ᴏ ᴅᴇᴜs ᴜ́ɴɪᴄᴏ, ɪᴍᴏʀᴛᴀʟ ᴇ ɪɴᴠɪsɪ́ᴠᴇʟ, sᴇᴊᴀᴍ ʜᴏɴʀᴀ ᴇ ɢʟᴏ́ʀɪᴀ ᴘᴀʀᴀ ᴛᴏᴅᴏ ᴏ sᴇᴍᴘʀᴇ. ᴀᴍᴇ́ᴍ. - 1 ᴛɪᴍᴏ́ᴛᴇᴏ 1:17</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=SrtaKennedy" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=SrtaKennedy" height="150" alt="languages graph"  />
-</div>
 
 ###
