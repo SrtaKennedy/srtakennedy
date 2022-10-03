@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SrtaKennedy/SrtaKennedy/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/{{SrtaKennedy}}/{{SrtaKennedy}}/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
