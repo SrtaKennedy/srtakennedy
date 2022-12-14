@@ -23,29 +23,17 @@
 
 ###
 
-<h6 align="left">Redes Sociais:</h6>
+<h6 align="center">꧁ ☆ __________________________________________________________________________________________________________ ☆ ꧂</h6>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="ruthellen1800@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="left">
   <a href="https://discord.com/channels/@🍓 Srta. Kennedy Flowers 🦊" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
   <a href="linkedin.com/in/ruth-ellen-9b0572221" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
