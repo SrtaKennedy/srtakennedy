@@ -64,7 +64,3 @@
 <h6 align="center">꧁ ☆ __________________________________________________________________________________________________________ ☆ ꧂</h6>
 
 ###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SrtaKennedy.SrtaKennedy&left_color=hotpink&right_color=pink&left_text=Profile Views"  />
-
-###
