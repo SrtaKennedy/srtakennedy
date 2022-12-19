@@ -6,7 +6,19 @@
 
 ###
 
+<h6 align="left">⬜ About Me:</h6>
+
+###
+
+<p align="left">Estudante de ADS<br>Gosto de jogar e assistir filmes (as vezes)<br>Tenho uma gatinha chamada Molly 😁</p>
+
+###
+
 <h6 align="center">꧁ ☆ __________________________________________________________________________________________________________ ☆ ꧂</h6>
+
+###
+
+<h6 align="left">💻 Tech Stack:</h6>
 
 ###
 
@@ -20,6 +32,10 @@
 
 ###
 
+<h6 align="left">📊 GitHub Stats:</h6>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=pt-br&hide_border=false&username=SrtaKennedy" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=panda&hide_border=false&username=SrtaKennedy" height="150" alt="languages graph"  />
@@ -27,7 +43,7 @@
 
 ###
 
-<h6 align="center">꧁ ☆ __________________________________________________________________________________________________________ ☆ ꧂</h6>
+<h6 align="left">🌐 Socials:</h6>
 
 ###
 
@@ -42,5 +58,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=f26a92&logoColor=black&labelColor=6af2ca&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<h6 align="center">꧁ ☆ __________________________________________________________________________________________________________ ☆ ꧂</h6>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SrtaKennedy.SrtaKennedy&left_color=hotpink&right_color=pink&left_text=Profile Views"  />
 
 ###
