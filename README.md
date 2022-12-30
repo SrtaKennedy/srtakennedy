@@ -10,11 +10,23 @@
 <p align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
 <hr>
 <p align="left"><strong>Hobbies:</strong> Gosto de jogar e assistir filmes (as vezes)</p>
-<p align="left">Tenho uma gatinha chamada Molly ::</p>
+<p align="left">Tenho uma gatinha chamada Molly 🐱:</p>
 
 ###
 
-<h6 align="center">꧁ ☆ __________________________________________________________________________________________________________ ☆ ꧂</h6>
+<hr>
+
+###
+
+<h6 align="left">:notebook: Tecnologias que estou utilizando:</h6>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
+</div>
 
 ###
 
@@ -61,6 +73,6 @@
 
 ###
 
-<h6 align="center">꧁ ☆ __________________________________________________________________________________________________________ ☆ ꧂</h6>
+<hr>
 
 ###
