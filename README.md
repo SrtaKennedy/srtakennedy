@@ -11,8 +11,8 @@
 ###
 
 <p align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p><br>
-  <br>
-<p align="left"<strong>Hobbies:</strong> Gosto de jogar e assistir filmes (as vezes)<br>Tenho uma gatinha chamada Molly 😁</p>
+<hr>
+<p align="left"><strong>Hobbies:</strong> Gosto de jogar e assistir filmes (as vezes)<br>Tenho uma gatinha chamada Molly 😁</p>
 
 ###
 
