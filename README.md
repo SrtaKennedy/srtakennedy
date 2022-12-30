@@ -55,7 +55,7 @@
 
 ###
 
-<h5 align="left">🌐 Socials:</h5>
+<h5 align="left">🌐 Contato:</h5>
 
 ###
 
