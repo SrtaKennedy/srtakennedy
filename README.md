@@ -6,13 +6,11 @@
 
 ###
 
-<h6 align="left">⬜ About Me:</h6>
-
-###
-
-<p align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p><br>
 <hr>
-<p align="left"><strong>Hobbies:</strong> Gosto de jogar e assistir filmes (as vezes)<br>Tenho uma gatinha chamada Molly 😁</p>
+<p align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
+<hr>
+<p align="left"><strong>Hobbies:</strong> Gosto de jogar e assistir filmes (as vezes)</p><br>
+<p align="left">Tenho uma gatinha chamada Molly 😁</p>
 
 ###
 
