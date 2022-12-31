@@ -1,14 +1,10 @@
 <h3 align="left">👋 Olá, meu nome é Ruth. Sejam bem vindos(as) ao meu perfil 😆</h3>
 
 <hr>
-
 <p align="left" color:"pink">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
 
+<p align="left"><strong>Hobbies:</strong> Gosto de jogar e assistir filmes (as vezes). <br>Tenho uma gatinha chamada Molly 🐱:</p>
 <hr>
-
-<p align="left"><strong>Hobbies:</strong> Gosto de jogar e assistir filmes (as vezes)</p>
-
-<p align="left">Tenho uma gatinha chamada Molly 🐱:</p>
 
 <h5 align="left">:notebook: Tecnologias que estou utilizando:</h5>
 <div align="left">
@@ -26,8 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
 </div>
 
-<h5 align="left">📊 GitHub Stats:</h5>
-<div align="left">
+<h5 align="center">📊 GitHub Stats:</h5>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false&username=SrtaKennedy" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&username=SrtaKennedy" height="150" alt="languages graph"  />
 </div>
@@ -50,10 +46,5 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SrtaKennedy.SrtaKennedy&left_color=hotpink&right_color=lightpink"  />
 
-<hr>
-
 ![snake gif](https://github.com/SrtaKennedy/SrtaKennedy/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
+<hr>
