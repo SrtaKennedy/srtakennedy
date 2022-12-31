@@ -5,11 +5,10 @@
 <p align="left" color:"pink">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
 
 <hr>
+
 <p align="left"><strong>Hobbies:</strong> Gosto de jogar e assistir filmes (as vezes)</p>
 
 <p align="left">Tenho uma gatinha chamada Molly 🐱:</p>
-
-<hr>
 
 <h5 align="left">:notebook: Tecnologias que estou utilizando:</h5>
 <div align="left">
@@ -17,8 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
 </div>
-
-<hr>
 
 <h5 align="left">💻 Tech Stack:</h5>
 <div align="left">
@@ -29,15 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
 </div>
 
-<hr>
-
 <h5 align="left">📊 GitHub Stats:</h5>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false&username=SrtaKennedy" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&username=SrtaKennedy" height="150" alt="languages graph"  />
 </div>
 
-<hr>
 
 <h5 align="left">🌐 Contato:</h5>
 <div align="left">
@@ -51,8 +45,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=f26a92&logoColor=black&labelColor=6af2ca&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-<hr>
 
 <br clear="both">
 
