@@ -11,12 +11,6 @@
 
 <hr>
 
-###
-
-<hr>
-
-###
-
 <h5 align="left">:notebook: Tecnologias que estou utilizando:</h5>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
@@ -25,7 +19,6 @@
 </div>
 
 <hr>
-###
 
 <h5 align="left">💻 Tech Stack:</h5>
 <div align="left">
@@ -37,7 +30,6 @@
 </div>
 
 <hr>
-###
 
 <h5 align="left">📊 GitHub Stats:</h5>
 <div align="left">
@@ -45,9 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&username=SrtaKennedy" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <hr>
+
 <h5 align="left">🌐 Contato:</h5>
 <div align="left">
   <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
@@ -61,15 +52,13 @@
   </a>
 </div>
 
-###
-
 <hr>
 
 <br clear="both">
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SrtaKennedy.SrtaKennedy&left_color=hotpink&right_color=lightpink"  />
 
-###
+<hr>
 
 ![snake gif](https://github.com/SrtaKennedy/SrtaKennedy/blob/output/github-contribution-grid-snake.svg)
 
