@@ -42,10 +42,5 @@
   </a>
 </div>
 
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SrtaKennedy.SrtaKennedy&left_color=hotpink&right_color=lightpink"  />
-
-
 ![snake gif](https://github.com/SrtaKennedy/SrtaKennedy/blob/output/github-contribution-grid-snake.svg)
 <hr>
