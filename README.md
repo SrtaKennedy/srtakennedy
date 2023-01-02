@@ -1,7 +1,6 @@
 <h3 align="left">👋 Olá, meu nome é Ruth. Sejam bem vindos(as) ao meu perfil 😆</h3>
 
 <hr>
-<p align="left" font color="pink">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</font></p>
 
 <p align="left"><strong>Hobbies:</strong> Gosto de jogar e assistir filmes (as vezes). <br>Tenho uma gatinha chamada Molly 🐱:</p>
 <hr>
@@ -44,3 +43,5 @@
 
 ![snake gif](https://github.com/SrtaKennedy/SrtaKennedy/blob/output/github-contribution-grid-snake.svg)
 <hr>
+
+<h6 align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</h6>
