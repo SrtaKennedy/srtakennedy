@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FFB3BF&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+meu+nome+%C3%A9+Ruth.;+Sejam+bem+vindos(as)+ao+meu+perfil+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=EAA4B6&center=true&multiline=true&repeat=false&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+meu+nome+%C3%A9+Ruth.;+Sejam+bem+vindos(as)+ao+meu+perfil.)](https://git.io/typing-svg)
 
 ###
 
@@ -48,7 +48,7 @@
 <p align="left">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
 
 ###
-
+<br>
 <hr>
 
 ![snake gif](https://github.com/SrtaKennedy/SrtaKennedy/blob/output/github-contribution-grid-snake.svg)
