@@ -1,4 +1,6 @@
-<h3 align="left">👋 Olá, meu nome é Ruth. Sejam bem vindos(as) ao meu perfil 😆</h3>
+<h3 align="center">👋 Olá, meu nome é Ruth. Sejam bem vindos(as) ao meu perfil 😆</h3>
+
+![borboleta](https://user-images.githubusercontent.com/90563215/210361454-b17b7409-4548-40aa-b5c0-cbc4ec6b1bce.jpg)
 
 <hr>
 
