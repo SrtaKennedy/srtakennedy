@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=EAA4B6&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+meu+nome+%C3%A9+Ruth.;+Sejam+bem+vindos(as)+ao+meu+perfil.)](https://git.io/typing-svg)
 
-###
+<hr>
 
-![](https://github-readme-stats.vercel.app/api?username=SrtaKennedy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SrtaKennedy&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SrtaKennedy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrtaKennedy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -40,5 +39,9 @@
 <hr>
 
 ![snake gif](https://github.com/SrtaKennedy/SrtaKennedy/blob/output/github-contribution-grid-snake.svg)
+
+<hr>
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SrtaKennedy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
