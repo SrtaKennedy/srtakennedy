@@ -2,11 +2,11 @@
 
 ###
 
-| Hobbies | Gênero | Frequência |
-| ------- | ---------- | ---------- |
-| Assistir filmes | Terror e Suspense | As vezes |
-| Jogar | Terror | As vezes |
-| Ler | Terror e Romance | quase nunca 😄 |
+![](https://github-readme-stats.vercel.app/api?username=SrtaKennedy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SrtaKennedy&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrtaKennedy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
