@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" width="42" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="42" alt="microsoftsqlserver logo"  />
@@ -24,7 +24,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/90563215/210369755-77097782-414e-4594-8e4f-a6db33bd9aaf.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/90563215/210402591-bb7706ca-b1ae-4fcf-bb7a-2d06ee0dccbb.gif"  />
 
 ###
 
@@ -32,7 +32,7 @@
   <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ffd9e3&logoColor=black&labelColor=ffb3bf&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ruth-ellen-jesus" target="_blank">
+  <a href="https://www.linkedin.com/in/ruth-ellen-jesus/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ffd9e3&logoColor=black&labelColor=ffb3bf&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/@SrtaKennedyFlowers" target="_blank">
@@ -46,6 +46,8 @@
 ###
 
 <p align="left">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
+
+###
 
 ###
 <br>
