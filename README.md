@@ -2,6 +2,8 @@
 
 <hr>
 
+![giphy (1)](https://user-images.githubusercontent.com/90563215/210360732-0b3724f9-2d86-401b-88dc-4f612c0d188c.gif)
+
 <p align="left"><strong>Hobbies:</strong> Gosto de jogar e assistir filmes (as vezes). <br>Tenho uma gatinha chamada Molly 🐱:</p>
 <hr>
 
