@@ -4,6 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=SrtaKennedy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrtaKennedy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=SrtaKennedy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -41,7 +42,3 @@
 ![snake gif](https://github.com/SrtaKennedy/SrtaKennedy/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
-🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SrtaKennedy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
