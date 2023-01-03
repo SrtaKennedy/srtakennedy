@@ -1,22 +1,24 @@
 <h3 align="center">👋 Olá, meu nome é Ruth. Sejam bem vindos(as) ao meu perfil 😆</h3>
 <hr>
 
-
+<p align="center">
+<img width="1000" height="230"  src="https://user-images.githubusercontent.com/90563215/210363699-021107e4-405d-473d-a24d-dff6748ec20b.jpg">
+</p>
 
 <hr>
 
 <p align="left"><strong>Hobbies:</strong> Gosto de jogar e assistir filmes (as vezes). <br>Tenho uma gatinha chamada Molly 🐱:</p>
 <hr>
 
-<h5 align="left">:notebook: Tecnologias que estou utilizando:</h5>
-<div align="left">
+<h5 align="center">:notebook: Tecnologias que estou utilizando:</h5>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
 </div>
 
-<h5 align="left">💻 Tech Stack:</h5>
-<div align="left">
+<h5 align="center">💻 Tech Stack:</h5>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
