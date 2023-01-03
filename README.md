@@ -2,14 +2,13 @@
 
 <hr>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrtaKennedy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=SrtaKennedy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=SrtaKennedy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrtaKennedy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://github-profile-trophy.vercel.app/?username=SrtaKennedy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br>
-###
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/90563215/210402591-bb7706ca-b1ae-4fcf-bb7a-2d06ee0dccbb.gif"  />
 
@@ -42,4 +41,4 @@
 
 ![snake gif](https://github.com/SrtaKennedy/SrtaKennedy/blob/output/github-contribution-grid-snake.svg)
 
-<hr>
+
