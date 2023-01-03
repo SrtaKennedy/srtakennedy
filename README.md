@@ -1,7 +1,7 @@
 <h3 align="center">👋 Olá, meu nome é Ruth. Sejam bem vindos(as) ao meu perfil 😆</h3>
 
 <p align="center">
-<img width="1000" height="230" src="https://user-images.githubusercontent.com/90563215/210361454-b17b7409-4548-40aa-b5c0-cbc4ec6b1bce.jpg">
+<img src="https:https://user-images.githubusercontent.com/90563215/210363246-52a7be26-4784-4203-9f1d-386e470d85e3.gif">
 </p>
 
 <hr>
