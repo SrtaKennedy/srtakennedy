@@ -32,7 +32,7 @@
   <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ffd9e3&logoColor=black&labelColor=ffb3bf&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="linkedin.com/in/ruth-ellen-jesus" target="_blank">
+  <a href="https://www.linkedin.com/in/ruth-ellen-jesus" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ffd9e3&logoColor=black&labelColor=ffb3bf&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/@SrtaKennedyFlowers" target="_blank">
