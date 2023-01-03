@@ -1,8 +1,13 @@
 <h3 align="center">👋 Olá, meu nome é Ruth. Sejam bem vindos(as) ao meu perfil 😆</h3>
 
 <p align="center">
-![borboleta](https://user-images.githubusercontent.com/90563215/210361454-b17b7409-4548-40aa-b5c0-cbc4ec6b1bce.jpg)
+
+  
+  ![borboleta](https://user-images.githubusercontent.com/90563215/210361454-b17b7409-4548-40aa-b5c0-cbc4ec6b1bce.jpg)
+
+
 </p>
+
 <hr>
 
 <p align="left"><strong>Hobbies:</strong> Gosto de jogar e assistir filmes (as vezes). <br>Tenho uma gatinha chamada Molly 🐱:</p>
