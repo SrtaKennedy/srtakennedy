@@ -4,15 +4,15 @@
 
 <br clear="both">
 
-| 🖥️ Tecnologias:                  | 🖥️ Tecnologias que estou usando: |
-| --------------------------------- | --------------------------------- |
-| C#                                | C#                                |
-| .NET                              | .NET                              | 
-| Microsoft SQL Server              | CSS3                              |
-| HTML15                            | HTML15                            |
-| CSS3                              |
-| JavaScript                        |
-| GIT                               |
+|Hobbies:          | 🖥️ Tecnologias:                   | 
+| ---------------- | --------------------------------- |
+| Ler              | C#                                | 
+| Assistir filmes  | .NET                              | 
+| Irritar a 🐱 Molly | Microsoft SQL Server            |
+| -                  | HTML15                           |
+| -                 | CSS3                              | 
+| -                 | JavaScript                        | 
+| -                 | GIT                               |
 
 <br>
 
