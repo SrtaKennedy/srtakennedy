@@ -18,8 +18,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&username=SrtaKennedy" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&username=SrtaKennedy" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=pt-br&hide_border=false&username=SrtaKennedy" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&username=SrtaKennedy" height="120" alt="languages graph"  />
 </div>
 
 ###
@@ -37,10 +37,10 @@
 
 <div align="left">
   <a href="www.linkedin.com/in/ruth-ellen-9b0572221" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=DB7093&logoColor=black&labelColor=FFB6C1&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=DB7093&logoColor=black&labelColor=FFB6C1&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
 
