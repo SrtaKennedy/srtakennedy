@@ -36,7 +36,7 @@
 <br>
 
 <div align="left">
-  <a href="www.linkedin.com/in/ruth-ellen-9b0572221" target="_blank">
+  <a href="https://www.linkedin.com/in/ruth-ellen-jesus/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
