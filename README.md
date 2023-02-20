@@ -16,31 +16,28 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=pt-br&hide_border=false&username=SrtaKennedy" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=false&username=SrtaKennedy" height="120" alt="languages graph"  />
-</div>
+<img align="left" height="179" src="https://user-images.githubusercontent.com/90563215/220205908-34da3d1a-7079-430f-a677-ac4c55c8639e.gif"  />
 
 ###
-
-<br>
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/90563215/210445332-17ceea5a-f240-4b41-996c-bc4c9b47ad09.gif"  />
-
-###
-
-<p align="left">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
-
-###
-<br>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ruth-ellen-jesus/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=DB7093&logoColor=black&labelColor=FFB6C1&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=SrtaKennedy" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=SrtaKennedy" height="150" alt="languages graph"  />
 </div>
 
-<hr>
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<h6 align="center"></h6>
+
+###
+
+<p align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
+
+###
