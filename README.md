@@ -41,7 +41,9 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76FBB&width=435&lines=%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93" alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76FBB&multiline=true&width=435&lines=%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93" alt="Typing SVG" /></a>
+  </div>
 
 ###
 
@@ -69,7 +71,3 @@
 ###
 
 <hr>
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76FBB&width=435&lines=%F0%9F%98%81+Fim+.+.+." alt="Typing SVG" /></a>
-</div>
