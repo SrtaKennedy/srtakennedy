@@ -7,9 +7,10 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
@@ -40,16 +41,20 @@
 
 ###
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76FBB&width=435&lines=%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93" alt="Typing SVG" /></a>
+
+###
+
 <p align="left">CONTATO:</p>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ruth-ellen-jesus/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff6680&logoColor=0040ff&labelColor=ffffff&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff6680&logoColor=0040ff&labelColor=ff9999&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff6680&logoColor=ff0000&labelColor=ffffff&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff6680&logoColor=ff0000&labelColor=ff9999&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -60,5 +65,9 @@
 ###
 
 <h6 align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</h6>
+
+###
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76FBB&width=435&lines=%F0%9F%98%81+Fim+.+.+." alt="Typing SVG" /></a>
 
 ###
