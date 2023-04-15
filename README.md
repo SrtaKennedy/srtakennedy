@@ -23,19 +23,17 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="200" src="https://user-images.githubusercontent.com/90563215/232250261-77d9aa91-6657-4735-81f7-f4b9e17e423c.gif"  />
 
 ###
 
-<p align="left">Hobbies:</p>
+<p align="center">Hobbies:</p>
 
 ###
 
-<h6 align="left">- Jogar;<br>- Ouvir músicas.</h6>
-
-###
-
-<p align="left">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
+<h6 align="center">- Jogar;<br>- Ouvir músicas.</h6>
 
 ###
 
