@@ -23,20 +23,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://user-images.githubusercontent.com/90563215/232250261-77d9aa91-6657-4735-81f7-f4b9e17e423c.gif"  />
-
-###
-
-<p align="center">Hobbies:</p>
-
-###
-
-<h6 align="center">- Jogar;<br>- Ouvir músicas.</h6>
-
-###
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76FBB&multiline=true&width=435&lines=%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93" alt="Typing SVG" /></a>
   </div>
