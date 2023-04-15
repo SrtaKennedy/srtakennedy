@@ -2,6 +2,26 @@
 
 <hr>
 
+<br clear="both">
+
+<img align="right" height="200" src="https://user-images.githubusercontent.com/90563215/232250261-77d9aa91-6657-4735-81f7-f4b9e17e423c.gif"  />
+
+###
+
+<p align="left">Cursando Análise e Desenvolvimento de Sistemas (UNICSUL)</p>
+
+###
+
+<p align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
+
+###
+
+<p align="center">♥♡♥</p>
+
+###
+
+<hr>
+
 <p align="left">Tecnologias:</p>
 
 ###
@@ -42,14 +62,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff6680&logoColor=ff0000&labelColor=ff9999&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<h4 align="center">Uma frase amigável:</h4>
-
-###
-
-<h6 align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</h6>
 
 ###
 
