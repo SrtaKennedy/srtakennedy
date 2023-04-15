@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
+<p align="left">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. <br>Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
 
 ###
 
@@ -50,11 +50,11 @@
 ###
 
 <br>
-<p align="left">CONTATO:</p>
+<p align="center">CONTATO:</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ruth-ellen-jesus/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff6680&logoColor=0040ff&labelColor=ff9999&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
