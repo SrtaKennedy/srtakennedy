@@ -7,10 +7,6 @@
 
 ###
 
-<p align="left">Cursando Análise e Desenvolvimento de Sistemas (UNICSUL)</p>
-
-###
-
 <p align="left">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. <br>Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
 
 ###
