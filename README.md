@@ -1,18 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=EAA4B6&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+meu+nome+%C3%A9+Ruth.;+Sejam+bem+vindos(as)+ao+meu+perfil.)](https://git.io/typing-svg)
 
 
-<br clear="both">
-
-<img align="right" height="200" src="https://user-images.githubusercontent.com/90563215/232250261-77d9aa91-6657-4735-81f7-f4b9e17e423c.gif"  />
-
-###
-
-<p align="left">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. <br>Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
-
-###
-
-<p align="center">♥♡♥</p>
-
 ###
 
 <hr>
@@ -48,7 +36,6 @@
 
 ###
 
-<hr>
 <p align="center">CONTATO:</p>
 
 ###
