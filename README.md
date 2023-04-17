@@ -31,10 +31,13 @@
 
 ###
 
+<p align="left">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante.  Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrtaKennedy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrtaKennedy&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SrtaKennedy&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrtaKennedy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrtaKennedy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -45,7 +48,7 @@
 
 ###
 
-<br>
+<hr>
 <p align="center">CONTATO:</p>
 
 ###
