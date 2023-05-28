@@ -53,8 +53,6 @@
 
 <hr>
 
-###
-
 <img src="https://raw.githubusercontent.com/SrtaKennedy/SrtaKennedy/output/snake.svg" alt="Snake animation" />
 
 ###
