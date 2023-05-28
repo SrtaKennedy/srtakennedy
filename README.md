@@ -12,11 +12,23 @@
 
 ###
 
-<h3 align="left">Tecnologias que estou utilizando:</h3>
+<h3 align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</h3>
+
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=111111&background=FF94AA&center=true&vCenter=true&width=500&height=60&lines=Carregando...+%F0%9F%98%98;Aceita+um+caf%C3%A9+%F0%9F%91%81%EF%B8%8F%F0%9F%91%81%EF%B8%8F%E2%98%95%3F)](https://git.io/typing-svg)
+  
+</div>
 
 ###
 
-<div align="left">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e2d2d&height=120&section=header"/>
+
+<h3 align="center">Tecnologias:</h3>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -26,13 +38,13 @@
 
 ###
 
-<h3 align="left">BackEnd básico:</h3>
+<h3 align="center">BackEnd básico:</h3>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" width="52" alt="salesforce logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
@@ -42,45 +54,37 @@
 
 ###
 
-<h3 align="left">Estatísticas:</h3>
-
-###
+<h3 align="center">Estatísticas:</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SrtaKennedy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrtaKennedy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76FBB&multiline=true&width=435&lines=%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93" alt="Typing SVG" /></a>
-  </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e2d2d&height=120&section=footer"/>
 
 ###
-
-<h3 align="center">Contato:</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ruth-ellen-jesus/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff6680&logoColor=0040ff&labelColor=ff9999&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff6680&logoColor=ff0000&labelColor=ff9999&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<hr color=ff91a4>
 
 <img src="https://raw.githubusercontent.com/SrtaKennedy/SrtaKennedy/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
+<img align="right" height="195" src="https://github.com/SrtaKennedy/tech-test-payment-api/assets/90563215/28f39c66-199d-47a2-a563-b59f612ff1f1"  />
+
+###
+<br>
+<h2 align="center">꧁ Contato: ꧂</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ruth-ellen-jesus/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=111111&logoColor=white&labelColor=0a66c2&style=flat" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=111111&logoColor=white&labelColor=F9423A&style=flat" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
