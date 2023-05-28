@@ -8,9 +8,9 @@
   <img height="200" src="https://github.com/SrtaKennedy/SiteAnimais-ficticio/assets/90563215/950cd535-8671-4451-ba26-f3894d9baf83"  />
 </div>
 
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
-<p align="left">Tecnologias:</p>
+<h3 align="center">Tecnologias:</h3>
 
 ###
 
@@ -21,10 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
-
-###
-
-<p align="left">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante.  Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
 
 ###
 
@@ -41,7 +37,7 @@
 
 ###
 
-<p align="center">CONTATO:</p>
+<h3 align="center">Contato:</h3>
 
 ###
 
@@ -62,4 +58,7 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<p align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</p>
+
+###
+
