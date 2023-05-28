@@ -5,6 +5,12 @@
 
 <hr>
 
+<div align="center">
+  <img height="195" src="https://github.com/SrtaKennedy/projects-ADACODES/assets/90563215/af0af492-63c9-4442-beff-0bc2c168ee30"  />
+</div>
+
+###
+
 <p align="left">Tecnologias:</p>
 
 ###
