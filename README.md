@@ -1,12 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=EAA4B6&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+meu+nome+%C3%A9+Ruth.;+Sejam+bem+vindos(as)+ao+meu+perfil.)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=DB7093&background=F0808000&center=true&vCenter=true&width=1000&height=100&lines=Hi+guys%2C+i'm+Ruth+Ellen.;Sejam+bem-vindos(as)+ao+meu+perfil.)](https://git.io/typing-svg)
 
 ###
 
-<hr>
-
 <div align="center">
-  <img height="195" src="https://github.com/SrtaKennedy/projects-ADACODES/assets/90563215/af0af492-63c9-4442-beff-0bc2c168ee30"  />
+  <img height="200" src="https://github.com/SrtaKennedy/SiteAnimais-ficticio/assets/90563215/950cd535-8671-4451-ba26-f3894d9baf83"  />
 </div>
 
 ###
@@ -57,8 +56,10 @@
 
 ###
 
-<hr>
+<hr color=ff91a4>
 
 <img src="https://raw.githubusercontent.com/SrtaKennedy/SrtaKennedy/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
