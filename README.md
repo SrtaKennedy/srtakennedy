@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&pause=1000&color=000000&background=FF94AA&center=true&vCenter=true&width=500&height=55&lines=Carregando...;Aceitam+um+chazinho+%F0%9F%91%81%EF%B8%8F%F0%9F%91%81%EF%B8%8F+%E2%98%95%3F)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace&size=24&pause=1005&color=000000&background=FF94AA&center=true&vCenter=true&width=500&height=55&lines=Carregando...;Aceitam+um+cafezinho+%F0%9F%91%81%EF%B8%8F%F0%9F%91%81%EF%B8%8F%E2%98%95%3F)](https://git.io/typing-svg)
   
 </div>
 
