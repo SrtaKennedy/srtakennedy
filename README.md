@@ -44,6 +44,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SrtaKennedy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrtaKennedy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SrtaKennedy&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e2d2d&height=120&section=footer"/>
