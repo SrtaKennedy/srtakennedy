@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/SrtaKennedy/SiteAnimais-ficticio/assets/90563215/950cd535-8671-4451-ba26-f3894d9baf83"  />
+  <img height="200" src="https://github.com/SrtaKennedy/srtakennedy/assets/90563215/be3feaed-2c2f-45ac-8036-009a811bea8e"  />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d21312&height=120&section=footer"/>
