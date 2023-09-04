@@ -24,10 +24,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header"/>
 
-<h3 align="center">Tecnologias:</h3>
-
 ###
 
+<h2 align="center"> Tecnologias: </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
