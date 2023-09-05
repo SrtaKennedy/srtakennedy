@@ -2,11 +2,31 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=DB7093&background=F0808000&center=true&vCenter=true&width=1000&height=100&lines=Hi+guys%2C+i'm+Ruth+Ellen.;Sejam+bem-vindos(as)+ao+meu+perfil.)](https://git.io/typing-svg)
 
+<br clear="both">
+
+<img align="right" height="200" src="https://github.com/SrtaKennedy/srtakennedy/assets/90563215/be3feaed-2c2f-45ac-8036-009a811bea8e"  />
+
 ###
 
-<div align="center">
-  <img height="200" src="https://github.com/SrtaKennedy/srtakennedy/assets/90563215/be3feaed-2c2f-45ac-8036-009a811bea8e"  />
+<p align="left"><strong>Estudando</strong>: JavaScript, TypeScript, NodeJS e SQLServer.</p>
+
+###
+
+<p align="left"><strong>IDEs utilidazadas</strong>: Visual Studio Code e Microsoft SQL Server Management Studio</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
 </div>
+
+###
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=99f7d4&height=120&section=footer"/>
 
@@ -25,21 +45,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header"/>
 
 ###
-
-<h2 align="center"> Tecnologias: </h2>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="52" height="40" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="52" height="40" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="52" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="52" height="40" />
-</div>
-
-###
-<br>
 
 <h3 align="center">Estatísticas:</h3>
 
