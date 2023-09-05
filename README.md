@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=99f7d4&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ead3&height=110&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=DB7093&background=F0808000&center=true&vCenter=true&width=1000&height=100&lines=Hi+guys%2C+i'm+Ruth+Ellen.;Sejam+bem-vindos(as)+ao+meu+perfil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFF5B7&background=F0808000&center=true&vCenter=true&width=1000&height=100&lines=Hi+guys%2C+i'm+Ruth+Ellen.;Sejam+bem-vindos(as)+ao+meu+perfil.)](https://git.io/typing-svg)
 
 <br clear="both">
 
@@ -28,7 +28,7 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=99f7d4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ead3&height=120&section=footer"/>
 
 ###
 
@@ -36,13 +36,13 @@
 
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace&size=24&pause=1005&color=000000&background=F8C481&center=true&vCenter=true&width=500&height=55&lines=Carregando...;Aceitam+um+cafezinho+%F0%9F%91%81%EF%B8%8F%F0%9F%91%81%EF%B8%8F%E2%98%95%3F)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace&size=24&pause=1005&color=000000&background=FFF5B7&center=true&vCenter=true&width=500&height=55&lines=Carregando...;Aceitam+um+cafezinho+%F0%9F%91%81%EF%B8%8F%F0%9F%91%81%EF%B8%8F%E2%98%95%3F)](https://git.io/typing-svg)
   
 </div>
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff449f&height=120&section=header"/>
 
 ###
 
@@ -50,11 +50,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtakennedy&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtakennedy&theme=neon&hide_border=false&hide_progress=true" height="150" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=srtakennedy&theme=aura&hide_border=false&include_all_commits=false&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=srtakennedy&rank_icon=github&theme=neon&hide_border=false&include_all_commits=false&count_private=true" height="150" />
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srtakennedy&theme=aura&hide_border=false" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srtakennedy&theme=neon&hide_border=false" height="150" />
   
 </div>
 
@@ -62,7 +62,7 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff449f&height=120&section=footer"/>
 
 ###
 
