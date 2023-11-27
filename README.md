@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">Estudando: JavaScript, TypeScript, e NodeJS.</p>
+<p align="left"><strong>Estudando:</strong> JavaScript, TypeScript, e NodeJS.</p>
 
 ###
 
-<p align="left">IDEs utilidazadas: Visual Studio Code.</p>
+<p align="left"><strong>IDEs utilidazadas:</strong> Visual Studio Code.</p>
 
 ###
 
