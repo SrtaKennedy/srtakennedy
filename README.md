@@ -4,15 +4,15 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://github.com/SrtaKennedy/srtakennedy/assets/90563215/be3feaed-2c2f-45ac-8036-009a811bea8e"  />
+<img align="right" height="189" src="https://github.com/SrtaKennedy/jogo-da-memoria-dio/assets/90563215/f4e06677-5cbc-46ab-9d6a-c6ed4a7855ee"  />
 
 ###
 
-<p align="left"><strong>Estudando</strong>: JavaScript, TypeScript, NodeJS e SQLServer.</p>
+<p align="left">Estudando: JavaScript, TypeScript, e NodeJS.</p>
 
 ###
 
-<p align="left"><strong>IDEs utilidazadas</strong>: Visual Studio Code e Microsoft SQL Server Management Studio</p>
+<p align="left">IDEs utilidazadas: Visual Studio Code.</p>
 
 ###
 
@@ -21,9 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
