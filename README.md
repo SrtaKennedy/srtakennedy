@@ -33,14 +33,15 @@
 <h3 align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</h3>
 
 <div align="center">
-
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace&size=24&pause=1005&color=fef2f3&background=f2738a&center=true&vCenter=true&width=500&height=55&lines=Carregando...;Aceitam+um+cafezinho+%F0%9F%91%81%EF%B8%8F%F0%9F%91%81%EF%B8%8F%E2%98%95%3F)](https://git.io/typing-svg)
   
 </div>
 
 ###
+<div align="center">
+  
+ ☀ 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b41c46&height=110&section=header"/>
+</div>
 
 ###
 
@@ -48,9 +49,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtakennedy&theme=bear&layout=donut" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtakennedy&theme=bear&layout=compact&langs_count=10" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=srtaKennedy&rank_icon=github&theme=bear&hide_border=false&include_all_commits=false&count_private=true" height="180" />
+<img src="https://streak-stats.demolab.com?user=SrtaKennedy&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 
 </div>
 
