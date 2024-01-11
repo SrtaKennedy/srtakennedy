@@ -49,9 +49,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtakennedy&theme=bear&layout=compact&langs_count=10" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtakennedy&theme=omni&layout=compact&langs_count=10" height="180" />
 
-<img src="https://streak-stats.demolab.com?user=SrtaKennedy&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=srtakennedy&locale=en&mode=daily&theme=omni&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 
 </div>
 
