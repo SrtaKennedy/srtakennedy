@@ -8,21 +8,39 @@
 
 ###
 
-<p align="left"><strong>Estudando:</strong> JavaScript, TypeScript, e NodeJS.</p>
+###
+
+<div align="left"></div> 
+
+<p align="center"><strong>Sobre mim:</strong></p>
+<p align="center">Gosto de ler nas horas vagas</p>
+<p align="center">Gosto ouvir de música</p>
+<p align="center">Tenho uma gata chamada Molly.</p>
+
+###
+<br>
+<hr>
+
+<br clear="both">
+
+<img align="left" height="189" src="https://github.com/SrtaKennedy/pink-dark/assets/90563215/a3d3e2c1-a96e-4286-a1d0-d7e503f36fc6"  />
 
 ###
 
-<p align="left"><strong>IDEs utilidazadas:</strong> Visual Studio Code.</p>
+ <p align="center"><strong>Tecnologias: </strong></p>
+  <div align="center">
+    
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  
 </div>
+<br>
 
 ###
 
@@ -49,9 +67,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtakennedy&theme=omni&layout=compact&langs_count=10" height="180" />
-
-<img src="https://streak-stats.demolab.com?user=srtakennedy&locale=en&mode=daily&theme=omni&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srtakennedy&theme=omni&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=450&hide_current_streak=true)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtakennedy&theme=omni&layout=compact&langs_count=10" height="195" />
 
 </div>
 
@@ -81,6 +98,9 @@
   </a>
   <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=111111&logoColor=white&labelColor=F9423A&style=flat" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/channels/@srta.kennedyflowers" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=111111&logoColor=white&labelColor=7289DA&style=plastic" height="40" alt="discord logo"  />
   </a>
 </div>
 
