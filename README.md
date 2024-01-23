@@ -66,7 +66,7 @@
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srtakennedy&theme=omni&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=450&hide_current_streak=true)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtakennedy&theme=omni&layout=compact&langs_count=10" height="195" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtaKennedy&theme=omni&layout=compact&langs_count=10" height="195" />
 
 </div>
 
