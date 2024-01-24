@@ -98,7 +98,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=111111&logoColor=white&labelColor=F9423A&style=flat" height="40" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/channels/@srta.kennedyflowers" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=111111&logoColor=white&labelColor=7289DA&style=plastic" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=111111&logoColor=white&labelColor=7289DA&style=flat" height="40" alt="discord logo"  />
   </a>
 </div>
 
