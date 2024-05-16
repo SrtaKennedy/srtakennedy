@@ -82,9 +82,6 @@
 
 ###
 
-<img align="right" height="195" src="https://github.com/SrtaKennedy/tech-test-payment-api/assets/90563215/28f39c66-199d-47a2-a563-b59f612ff1f1"  />
-
-###
 <br>
 <h2 align="center">꧁ Contato: ꧂</h2>
 
