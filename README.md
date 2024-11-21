@@ -12,56 +12,33 @@
 
 <div align="left"></div> 
 
-<p align="center"><strong>Sobre mim:</strong></p>
-<p align="center">Gosto de ler nas horas vagas</p>
-<p align="center">Gosto ouvir de música</p>
-<p align="center">Tenho uma gata chamada Molly.</p>
+<h4 align="center">︵❤︎⁂❤︎︵</h4>
+<p align="left">Olá, me chamo Ruth Ellen. Sou apaixonada por tecnologia e estou sempre me dedicando a estudar e colocar em prática o que aprendo.
+ Viso desenvolver projetos constantemente, aplicando meus conhecimentos e buscando novas formas de crescer na área. Estou sempre em busca de novos desafios e oportunidades para evoluir.
+</p>
 
 ###
 <br>
-<hr>
 
 <br clear="both">
 
-<img align="left" height="189" src="https://github.com/SrtaKennedy/pink-dark/assets/90563215/a3d3e2c1-a96e-4286-a1d0-d7e503f36fc6"  />
+
+
+<hr>
 
 ###
 
- <p align="center"><strong>Tecnologias: </strong></p>
+ <h3 align="center"><strong>Tecnologias: </strong></h3>
   <div align="center">
     
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
-  
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   
 </div>
+
 <br>
-
-###
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d52955&height=110&section=footer"/>
-
-###
-
-<h3 align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</h3>
-
-<div align="center">
-  
-</div>
-
-###
-<div align="center">
-  
- ☀ 
-
-</div>
-
-###
-
-<h3 align="center">Estatísticas:</h3>
 
 <div align="center">
 
@@ -71,10 +48,25 @@
 </div>
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d52955&height=110&section=footer"/>
+
+###
+<div align="center">
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b41c46&height=110&section=footer"/>
+###
+
+
+###
+  
+</div>
+
+###
+<br>
+
+<h3 align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</h3>
 
 ###
 
