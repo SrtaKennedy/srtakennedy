@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d52955&height=105&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed4787&height=105&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=f27393&background=F0808000&center=true&vCenter=true&width=1000&height=70&lines=Hi+guys%2C+i'm+Ruth+Ellen.;Sejam+bem-vindos+ao+meu+perfil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00ffe1&background=F0808000&center=true&vCenter=true&width=1000&height=70&lines=Hi+guys%2C+i'm+Ruth+Ellen.;Sejam+bem-vindos+ao+meu+perfil.)](https://git.io/typing-svg)
 
 <br clear="both">
 
@@ -40,16 +40,21 @@
 
 <br>
 
-<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srtakennedy&theme=omni&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=450&hide_current_streak=true)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtaKennedy&theme=omni&layout=compact&langs_count=10" height="185" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrtaKennedy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2&custom_title=Srta%20Kennedy" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
 
 </div>
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d52955&height=110&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed4787&height=110&section=footer"/>
 
 ###
 <div align="center">
