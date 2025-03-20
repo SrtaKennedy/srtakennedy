@@ -40,11 +40,8 @@
 
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SrtaKennedy&bg_color=ffe5f3&color=ff0088&line=fffcb3&point=141414&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrtaKennedy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2&custom_title=Srta%20Kennedy" height="150" alt="languages graph"  />
-</div>
 
 ###
 
