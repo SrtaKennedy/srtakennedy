@@ -12,17 +12,17 @@
 
 <div align="left"></div> 
 
-<h4 align="center">︵❤︎⁂❤︎︵</h4>
-<p align="left">Olá, me chamo Ruth Ellen. Sou apaixonada por tecnologia e estou sempre me dedicando a estudar e colocar em prática o que aprendo.
- Viso desenvolver projetos constantemente, aplicando meus conhecimentos e buscando novas formas de crescer na área. Estou sempre em busca de novos desafios e oportunidades para evoluir.
+<p align="center">
+   Sou apaixonada por tecnologia e movida pela vontade de aprender sempre. Gosto de codar, criar projetos e ver ideias virando algo real. Tô sempre estudando, testando coisas novas e buscando evoluir como desenvolvedora.
+</p>
+<p align="center">
+   Quando não estou mergulhada em códigos, você pode me encontrar assistindo de jogos de terror 🎮, lendo um livro (quando bate a inspiração 📚), ou só curtindo uma boa playlist bem eclética 🎧.
 </p>
 
 ###
 <br>
 
 <br clear="both">
-
-
 
 <hr>
 
