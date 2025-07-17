@@ -16,7 +16,7 @@
    Sou apaixonada por tecnologia e movida pela vontade de aprender sempre. Gosto de codar, criar projetos e ver ideias virando algo real. Tô sempre estudando, testando coisas novas e buscando evoluir como desenvolvedora.
 </p>
 <p align="center">
-   Quando não estou mergulhada em códigos, você pode me encontrar assistindo de jogos de terror 🎮, lendo um livro (quando bate a inspiração 📚), ou só curtindo uma boa playlist bem eclética 🎧.
+   Quando não estou mergulhada em códigos, você pode me encontrar assistindo jogos de terror 🎮, lendo um livro (quando bate a inspiração 📚), ou fazendo crochê 🧶 (distrair a mente).
 </p>
 
 ###
