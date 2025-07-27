@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="189" src="https://github.com/user-attachments/assets/f110adbd-2fc7-4edb-9302-e79b288c24c5"  />
+<img align="right" height="189" src="https://github.com/user-attachments/assets/0c90668f-d61c-4f41-9868-55ce57c97ba4"  />
 
 ###
 
@@ -16,7 +16,7 @@
    Sou apaixonada por tecnologia e movida pela vontade de aprender sempre. Gosto de codar, criar projetos e ver ideias virando algo real. Tô sempre estudando, testando coisas novas e buscando evoluir como desenvolvedora.
 </p>
 <p align="center">
-   Quando não estou mergulhada em códigos, você pode me encontrar assistindo jogos de terror 🎮, lendo um livro (quando bate a inspiração 📚), ou fazendo crochê 🧶 (distrair a mente).
+   Quando não estou mergulhada em códigos, você pode me encontrar assistindo jogos de terror 🎮, lendo um livro (quando bate a inspiração 📚), brincando com a Molly 😸 ou fazendo crochê 🧶 (distrair a mente).
 </p>
 
 ###
