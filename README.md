@@ -1,14 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed4787&height=105&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF9E5&height=105&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00ffe1&background=F0808000&center=true&vCenter=true&width=1000&height=70&lines=Hi+guys%2C+i'm+Ruth+Ellen.;Sejam+bem-vindos+ao+meu+perfil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F875AA&background=F0808000&center=true&vCenter=true&width=1000&height=70&lines=Hi+guys%2C+i'm+Ruth+Ellen.;Sejam+bem-vindos+ao+meu+perfil.)](https://git.io/typing-svg)
 
 <br clear="both">
 
 <img align="right" height="189" src="https://github.com/user-attachments/assets/0c90668f-d61c-4f41-9868-55ce57c97ba4"  />
-
-###
-
-###
 
 <div align="left"></div> 
 
@@ -19,84 +15,43 @@
    Quando não estou mergulhada em códigos, você pode me encontrar assistindo jogos de terror 🎮, lendo um livro (quando bate a inspiração 📚), brincando com a Molly 😸 ou fazendo crochê 🧶 (distrair a mente).
 </p>
 
-###
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF9E5&height=110&section=footer"/>
 
-<br clear="both">
 
 <hr>
-
-###
-
- <h3><strong>Tecnologias: </strong></h3>
-  <div>
-   
-   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-   ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
-   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) <br>
-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-   
-  </div>
-
-  ###
-
-  <h3 aling="center">Demais Tecnologias: </h3>
-  <div aling="center">
-   
-   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
-   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br>
-   ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-   ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-   
-  </div>
-
-  ###
-
-  <h3>Outros: </h3>
-  <div>
-   
-   ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
-   ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-   ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-   ![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)
-   
-  </div>
-
-
-###
-
+<br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SrtaKennedy&bg_color=ffe5f3&color=ff0088&line=fffcb3&point=141414&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-###
-
-
-
-</div>
-
-###
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed4787&height=110&section=footer"/>
-
-###
 <div align="center">
-  
+   
+   ![](https://capsule-render.vercel.app/api?type=venom&height=45&text=💻%20Skills:&fontSize=40&color=0:F875AA,100:FFF6F6&stroke=FF90BB)
+   
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="50" alt="microsoftsqlserver logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge" height="50" alt="salesforce logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="50" alt="angularjs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="50" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="50" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="50" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="50" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="50" alt="css logo"  />
 </div>
 
 ###
-
-
-###
-  
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrtaKennedy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=omni&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrtaKennedy&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=omni&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrtaKennedy&radius=10&theme=react&area=true&order=5&hide_border=false&hide_title=false&area_color=000000&point=F5CBCB&bg_color=533B4D&line=FFEAEA" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -106,26 +61,23 @@
 
 ###
 
+<div align="center">
+   
 <img src="https://raw.githubusercontent.com/SrtaKennedy/SrtaKennedy/output/snake.svg" alt="Snake animation" />
+   
+</div>
 
-###
-
-<br>
-<h2 align="center">꧁ Contato: ꧂</h2>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ruth-ellen-jesus/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=111111&logoColor=white&labelColor=0a66c2&style=flat" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=111111&logoColor=white&labelColor=F9423A&style=flat" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/channels/@srta.kennedyflowers" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=111111&logoColor=white&labelColor=7289DA&style=flat" height="40" alt="discord logo"  />
-  </a>
+   
+   
+<img width="1301" height="200" alt="github-header-image (1)" src="https://github.com/user-attachments/assets/f44d0608-393b-4bf8-823c-a30a57c5ed53" />
+
 </div>
 
-###
+
+
+
 
