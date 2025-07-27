@@ -24,7 +24,7 @@
 
 <div align="center">
    
-   ![](https://capsule-render.vercel.app/api?type=venom&height=45&text=💻%20Skills:&fontSize=40&color=0:F875AA,100:FFF6F6&stroke=FF90BB)
+   ![](https://capsule-render.vercel.app/api?type=venom&height=45&text=💻%20Skills:&fontSize=40&color=0:F875AA,100:FFF6F6&stroke=000000)
    
 </div>
 
