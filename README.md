@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="189" src="https://github.com/SrtaKennedy/jogo-da-memoria-dio/assets/90563215/f4e06677-5cbc-46ab-9d6a-c6ed4a7855ee"  />
+<img align="right" height="189" src="https://github.com/user-attachments/assets/f110adbd-2fc7-4edb-9302-e79b288c24c5"  />
 
 ###
 
