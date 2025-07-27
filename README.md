@@ -21,7 +21,7 @@
 <hr>
 <br>
 
-<div align="center">
+<div align="left">
    
    ![](https://capsule-render.vercel.app/api?type=venom&height=45&text=💻%20Skills%20&%20Tecnologias:&fontSize=40&color=0:F875AA,100:FFF6F6&stroke=000000)
    
