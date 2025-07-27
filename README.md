@@ -23,29 +23,25 @@
 
 <div align="center">
    
-   ![](https://capsule-render.vercel.app/api?type=venom&height=45&text=💻%20Skills:&fontSize=40&color=0:F875AA,100:FFF6F6&stroke=000000)
+   ![](https://capsule-render.vercel.app/api?type=venom&height=45&text=💻%20Skills%20&%20Tecnologias:&fontSize=40&color=0:F875AA,100:FFF6F6&stroke=000000)
    
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="50" alt="microsoftsqlserver logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge" height="50" alt="salesforce logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="50" alt="angularjs logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="50" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="50" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="50" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="50" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="50" alt="css logo"  />
+
+```
+- **Linguagens:** JavaScript, C#
+- **Front-end:** HTML5, CSS3, React, Angular
+- **Back-end:** .NET, Node.js
+- **Banco de Dados:** SQL Server
+- **Ferramentas:** Git, GitHub, Jira, Miro, Postman
+- **Plataformas:** Salesforce, Vercel, Netlify
+```
+
 </div>
 
 ###
+
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SrtaKennedy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=omni&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
