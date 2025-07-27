@@ -17,37 +17,15 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF9E5&height=180&section=footer"/>
 
-
 <hr>
-<br>
 
-<div align="left">
-   
-   ![](https://capsule-render.vercel.app/api?type=venom&height=45&text=💻%20Skills%20&%20Tecnologias:&fontSize=40&color=0:F875AA,100:FFF6F6&stroke=000000)
-   
-</div>
-
-<div align="left">
-
-- **Linguagens:** JavaScript, C#
-- **Front-end:** HTML5, CSS3, React, Angular
-- **Back-end:** .NET, Node.js
-- **Banco de Dados:** SQL Server
-- **Ferramentas:** Git, GitHub, Jira, Miro, Postman
-- **Plataformas:** Salesforce, Vercel
-
-</div>
-
-###
-
-<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrtaKennedy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=omni&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrtaKennedy&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=omni&hide_border=false&order=2" height="150" alt="languages graph"  />
+   
+   <img height=100 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mm1udXQyenl5MGtrbTV3ZWcxb216dTVlNmp3dmNsZmR6aDJpcXE5dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RJQB9R5WQGEsWhLopC/giphy.gif"/>
+   
 </div>
 
 ###
-<br>
 
 <h3 align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</h3>
 
