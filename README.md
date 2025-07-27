@@ -23,19 +23,19 @@
 
 <div align="center">
    
-   ![](https://capsule-render.vercel.app/api?type=venom&height=45&text=💻%20Skills%20&%20Tecnologias:&fontSize=40&color=0:F875AA,100:FFF6F6&stroke=000000)
+   ![](https://capsule-render.vercel.app/api?type=venom&height=45&text=💻%20Skills:&fontSize=40&color=0:F875AA,100:FFF6F6&stroke=000000)
    
 </div>
 
 <div align="left">
 
 ```
-- **Linguagens:** JavaScript, C#
-- **Front-end:** HTML5, CSS3, React, Angular
-- **Back-end:** .NET, Node.js
-- **Banco de Dados:** SQL Server
-- **Ferramentas:** Git, GitHub, Jira, Miro, Postman
-- **Plataformas:** Salesforce, Vercel, Netlify
+**Linguagens:** JavaScript, C#
+**Front-end:** HTML5, CSS3, React, Angular
+**Back-end:** .NET, Node.js
+**Banco de Dados:** SQL Server
+**Ferramentas:** Git, GitHub, Jira, Miro, Postman
+**Plataformas:** Salesforce, Vercel, Netlify
 ```
 
 </div>
