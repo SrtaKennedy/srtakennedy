@@ -17,36 +17,68 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF9E5&height=180&section=footer"/>
 
+###
+
+<div align="center">
+   
+<img width="1200" height="90" alt="github-header-image" src="https://github.com/user-attachments/assets/e1bb516d-8e0b-429d-9916-2c3b247a26e6" />
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrtaKennedy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrtaKennedy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
 <hr>
 
+<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdsOHQxZm4weXE1ZGJvc29ld2huMXRudnV1ZzNjNmxncWp1MzAzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RJQB9R5WQGEsWhLopC/giphy.gif"  />
+
+###
+
+
+<h2 align="center">Contato</h2>
+
+###
+
 <div align="center">
-   
-   <img height=100 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mm1udXQyenl5MGtrbTV3ZWcxb216dTVlNmp3dmNsZmR6aDJpcXE5dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RJQB9R5WQGEsWhLopC/giphy.gif"/>
-   
+  <a href="https://www.linkedin.com/in/ruth-ellen-jesus/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FFABAB&logoColor=FEF2F4&labelColor=FFABAB&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FFCBCB&logoColor=white&labelColor=FFB1B1&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://youtube.com/@ruthellenpj?si=kx4vl5hYLdkbyFfg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FFCBCB&logoColor=white&labelColor=FFB1B1&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
-
-<h3 align="center">Programação por amor, estresse e diversão. A caminhada é difícil, mas gratificante. Todo começo é custoso, mas nos faz sair da zona de conforto.</h3>
-
 ###
-
 
 <div align="center">
    
-
 <img src="https://raw.githubusercontent.com/SrtaKennedy/SrtaKennedy/output/snake.svg" alt="Snake animation" />
-
-   
-</div>
-
-
-###
-
-<div align="center">
-   
-   
-<img width="1301" height="200" alt="github-header-image (1)" src="https://github.com/user-attachments/assets/f44d0608-393b-4bf8-823c-a30a57c5ed53" />
 
 </div>
 
