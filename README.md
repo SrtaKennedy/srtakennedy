@@ -4,7 +4,8 @@
 
 <br clear="both">
 
-<img align="right" height="189" src="https://github.com/user-attachments/assets/0c90668f-d61c-4f41-9868-55ce57c97ba4"  />
+<img align="right" height="200" alt="flor" src="https://github.com/user-attachments/assets/cd9b9f50-ea0d-414b-929f-1cc44fdb0d22" />
+
 
 <div align="left"></div> 
 
@@ -52,7 +53,7 @@
 
 <hr>
 
-<img align="left" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdsOHQxZm4weXE1ZGJvc29ld2huMXRudnV1ZzNjNmxncWp1MzAzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RJQB9R5WQGEsWhLopC/giphy.gif"  />
+<img align="left" height="120" src="https://github.com/user-attachments/assets/0c90668f-d61c-4f41-9868-55ce57c97ba4"  />
 
 
 ###
