@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF9E5&height=180&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF9E5&height=180&section=header"/> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F875AA&background=F0808000&center=true&vCenter=true&width=1000&height=70&lines=Hi+guys%2C+i'm+Ruth+Ellen.;Sejam+bem-vindos(as)+ao+meu+perfil.)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
    Quando não estou mergulhada em códigos, você pode me encontrar assistindo jogos de terror 🎮, lendo um livro (quando bate a inspiração 📚), brincando com a Molly 😸 ou fazendo crochê 🧶 (distrair a mente).
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF9E5&height=180&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF9E5&height=180&section=footer"/> -->
 
 ###
 
